@@ -1,0 +1,19 @@
+{
+  "name": "html-inject-version-webpack-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryChen0506/html-inject-version-webpack-plugin.git"
+  },
+  "author": "HarryChen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryChen0506/html-inject-version-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/HarryChen0506/html-inject-version-webpack-plugin#readme"
+}
